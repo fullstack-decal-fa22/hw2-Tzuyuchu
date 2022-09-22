@@ -178,5 +178,5 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: 15%;
+  padding: 30px;
 }
